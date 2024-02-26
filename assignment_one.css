@@ -3,10 +3,11 @@
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .header {
+  .header-container {
     display: flex;
     justify-content: center;
 }
+
 /* breakpoint mobile */
 @media screen and (max-width: 780px) {
   .card-container{
