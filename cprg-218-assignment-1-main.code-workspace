@@ -7,5 +7,7 @@
 			"path": "../Lab 3"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lab 3"
+	}
 }
