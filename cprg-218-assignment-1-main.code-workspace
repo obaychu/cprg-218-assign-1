@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Lab 3"
 		}
 	],
 	"settings": {}
